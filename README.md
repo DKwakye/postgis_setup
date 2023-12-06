@@ -7,5 +7,5 @@ Once you have installed docker and docker-compose on your local machine the setu
 
 ## Steps
 1. Clone the repo
-2. Navigate into the repo. Feel free to customise the environment variables
+2. Navigate into the repo. Feel free to customise the yml
 3. Run **docker compose up -d**
